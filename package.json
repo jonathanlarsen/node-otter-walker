@@ -1,5 +1,5 @@
 {
-  "name": "node-otter-walker",
+  "name": "otter-walker",
   "version": "1.0.0",
   "description": "Basic directory/file walker",
   "main": "index.js",
